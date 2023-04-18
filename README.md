@@ -1,2 +1,3 @@
 # My_CV
-My first project HTML &amp; CSS
+You can see here
+[My first project HTML & CSS](https://olegychs.github.io/My_CV/)
